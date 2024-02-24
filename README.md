@@ -24,7 +24,6 @@
             <li>📫 How to reach me : <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1622508200/42507/email_open.png?1622508200" width="20" />
                 <a href="mailto:devikrishnar2004@gmail.com" target="_blank">devikrishnar2004@gmail.com</a></li>
-            <li>👀 Take a look at <a href="" target="_blank">My Portfolio</a></li>
         </ul>
     </div>
 
